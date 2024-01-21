@@ -2,6 +2,4 @@
 
 Тестовое задание, верстка, canvas, JS.
 
-#Ссылка Codepen
-
-[Ссылка](https://codepen.io/G-aleksey/pen/YzdPaYE)
+[Ссылка Codepen](https://codepen.io/G-aleksey/pen/YzdPaYE)
